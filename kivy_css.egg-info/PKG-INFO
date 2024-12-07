@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: kivy-css
+Version: 0.1
+Summary: A library to convert CSS to Kivy KV format
+Home-page: https://github.com/yourusername/yourproject
+Author: Nhật Minh
+Author-email: your-email@example.com
+Requires-Dist: kivy
+Requires-Dist: tinycss2

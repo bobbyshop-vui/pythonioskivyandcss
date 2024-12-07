@@ -1,0 +1,8 @@
+setup.py
+kivy_css/__init__.py
+kivy_css/css_parser.py
+kivy_css.egg-info/PKG-INFO
+kivy_css.egg-info/SOURCES.txt
+kivy_css.egg-info/dependency_links.txt
+kivy_css.egg-info/requires.txt
+kivy_css.egg-info/top_level.txt
